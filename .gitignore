@@ -1,0 +1,7 @@
+/tutorial/json_export/*.json
+/tutorial/md_export/*.md
+/tutorial/output/*.json
+/venv
+.idea
+/tutorial/tutorial/
+/tutorial/scrapy.cfg
